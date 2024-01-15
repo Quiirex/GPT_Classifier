@@ -1,2 +1,2 @@
-# GPT_Classifier
-Experimental Python classifier based on GPT models
+# GPT Classifier
+An experimental classifier in the form of a Python class that runs using the OpenAI GPT API service and implements the fit and predict methods. The idea is to use GPT to systematically classify instances over an arbitrary dataset.
